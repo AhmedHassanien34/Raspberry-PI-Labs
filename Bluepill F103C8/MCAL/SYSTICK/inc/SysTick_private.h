@@ -1,5 +1,0 @@
-#ifndef SYSTICK_PRIVATE_H
-#define SYSTICK_PRIVATE_H
-
-
-#endif // !SYSTICK_INTERFACE_H
